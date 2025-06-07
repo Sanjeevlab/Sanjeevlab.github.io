@@ -8,16 +8,18 @@ PhD in Electronics and Communication Engineering
 Indian Institute of Technology Roorkee, India | 2019-Present
 
 M.Tech in Electronics and Communication Engineering  
-National Institute of Technology, Hamirpur, HP, India | 2017-2019    
+National Institute of Technology Hamirpur, HP, India | 2017-2019    
 
 B.Tech in Electronics and Communication Engineering UP, India  
 Dr. A.P.J. Abdul Kalam Technical University, UP, India | 2012-2016
-### Work Experience
-Data Scientist @ IIT Roorkee
+### Work Details
+**Development of a novel biomarker for Epilepsy diagnosis and Seizure detection over interictal Epileptic Patients and Healthy Control via EEG Modality.**:
 
--big impact project 1!
-
--big impact project 2!
+This project is sponsored by the Indian Council of Medical Research (ICMR), whose key contributions are as follows:  
+-This study proposes an n-cylindrical biomarker by combining the advancement of Eigen Value Decomposition, FFT, and DWT for interictal epilepsy diagnosis.  
+-The proposed nCSR biomarker serves as an assistive tool in diagnosing, especially in the doubtful cases of epilepsy, where MRI and video EEG come out to be normal.  
+-This study contributes a novel ICMR-Epilepsy clinical EEG dataset of 140 subjects (70 interictal epileptic and 70 healthy control) collected at Max Superspeciality Hospital, Saket, New Delhi.  
+-The proposed biomarker outperforms the existing benchmark algorithms in the study of seizure detection when applied over a publicly available Siena Dataset and Bonn dataset.
 
 ### Projects
 EEG band discovery

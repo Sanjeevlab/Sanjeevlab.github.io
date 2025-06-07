@@ -1,7 +1,7 @@
 # Portfolio 
 ## About me
 ***  
-I am a doctoral researcher in the Department of Electronics and Communication Engineering at IIT Roorkee under the supervision of [Prof. Tharun Kumar Reddy Bollu](https://tharuniitk.github.io/). My current research focuses on Neurological disorder diagnosis and detection using ML and DL models. During my research I designed computational biomarkers and features which assisted in initial screening of Epileptic subjects from Epilepsy Immitators. 
+I am a doctoral researcher in the Department of Electronics and Communication Engineering at IIT Roorkee under the supervision of **[Prof. Tharun Kumar Reddy Bollu](https://tharuniitk.github.io/)**. My current research focuses on Neurological disorder diagnosis and detection using ML and DL models. During my research I designed computational biomarkers and features which assisted in initial screening of Epileptic subjects from Epilepsy Immitators. 
 
 Additionally I have hands-on experience and interest in designing and implementing a pipeline for Neurological disorder localisation and brain mapping using MEG-fMRI modality. In the exploratory stage I am working on implementing Neurofeedback techniques for neuro rehablitation.  
 ## Education
@@ -77,7 +77,7 @@ This project was a part of the **BIOMAG-2024** Challenge; key contributions are 
 ***  
 - 5<sup>th</sup> Position in International **Cogitate Connectivity Data Challenge** organized by Cogitate Consortium at BIOMAG-24, Sydney, Australia  July’2024.
 - Visiting Scholar at the **University of Technology, UTS Sydney, Australia** from Nov’ 2023-Dec’ 2023.
-- Proposal got selected in **“Australia India Research Student (AIRS) Fellowship”** program funded by Dept. of Education, Govt. of Australia in Jan’ 2023
+- Proposal got selected in **[“Australia India Research Student (AIRS) Fellowship”](https://arch-india.org/australia-india-research-students-fellowship-program)** program funded by Dept. of Education, Govt. of Australia in Jan’ 2023
 - 2<sup>nd</sup> Position (Silver Medal) in **International Data Analysis Competition 2022 - Epilepsy Challenge** organized by BIOMAG – 2022 at the University of Birmingham, UK in July’ 2022
 - Participated in **Seizure Detection Challenge: ICASSP 2023** organized in collaboration with Una Europa, at Greece. Our team was among the top 5 teams in June’ 2023.
 - 1<sup>st</sup> Position in **“Line Follower Robotic Competition”** at intercollege level (REVAMP-15) held at NCR, Delhi in Feb’ 2015.

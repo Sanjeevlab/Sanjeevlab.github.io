@@ -1,4 +1,11 @@
 # Portfolio 
+<img src="profile.jpg" alt="Profile photo" width="150" style="border-radius: 50%;" />
+
+# Sanjeev Kumar Varun
+
+PhD Scholar, IIT Roorkee  
+Email: skumarvarun@ec.iitr.ac.in  
+
 ## About me
 ***  
 I am a doctoral researcher in the Department of Electronics and Communication Engineering at IIT Roorkee under the supervision of **[Prof. Tharun Kumar Reddy Bollu](https://tharuniitk.github.io/)**. My current research focuses on Neurological disorder diagnosis and detection using ML and DL models. During my research I designed computational biomarkers and features which assisted in initial screening of Epileptic subjects from Epilepsy Immitators. 

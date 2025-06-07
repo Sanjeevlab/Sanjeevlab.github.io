@@ -1,10 +1,21 @@
 # Portfolio 
-<img src="profile.jpg" alt="Profile photo" width="150" style="border-radius: 50%;" />
+<table>
+  <tr>
+    <td style="width: 200px; vertical-align: top;">
+      <img src="profile.jpg" alt="Sanjeev Kumar Varun" style="width: 180px; border-radius: 50%;" />
+    </td>
+    <td style="padding-left: 20px;">
+      <h1>Sanjeev Kumar Varun</h1>
+      <p>PhD Scholar, IIT Roorkee</p>
+      <p>Email: skumarvarun@ec.iitr.ac.in</p>
 
-# Sanjeev Kumar Varun
-
-PhD Scholar, IIT Roorkee  
-Email: skumarvarun@ec.iitr.ac.in  
+      <h3>About me</h3>
+      <p>
+        I am a doctoral researcher in the Department of Electronics and Communication Engineering at IIT Roorkee...
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## About me
 ***  

@@ -45,7 +45,7 @@ This project was a part of the **BIOMAG-2024** Challenge; key contributions are 
 - This study provides a novel pipeline based on the DICS beamforming technique to perform network connectivity or hub node identification of the conscious content in alpha, beta, and gamma bands.
 
 **Proposed a novel WearNeuroNet architecture along with the implementation of explainable AI, i.e., layerwise relevance propagation for ictal-interictal classification limited channel EEG wearables [Link](https://ieeexplore.ieee.org/abstract/document/10570304).**
-## Publications
+## Publications **[[Google Scholar](https://scholar.google.com/citations?user=vQ6OK3wAAAAJ&hl=en)]**
 *** 
 **Journals:**  
 - **S. K. Varun** and T. K. R. Bollu, "WearNeuroNet: An Interpretable Light-Weight Deep Learning Approach for Ictal–Interictal Classification for Limited Channel EEG Wearables," in IEEE Sensors Letters, vol. 8, no. 10, pp. 1-4, Oct. 2024, Art no. 6012304, doi: 10.1109/LSENS.2024.3417453. **(Published: [Link](https://ieeexplore.ieee.org/abstract/document/10570304))**

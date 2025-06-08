@@ -4,6 +4,7 @@ I am a doctoral researcher in the Department of Electronics and Communication En
 
 Additionally I have hands-on experience and interest in designing and implementing a pipeline for Neurological disorder localisation and brain mapping using MEG-fMRI modality. In the exploratory stage I am working on implementing Neurofeedback techniques for neuro rehablitation.  
 ## Education
+***  
 **PhD** in Electronics and Communication Engineering  
 **Indian Institute of Technology Roorkee**, India | 2019-Present
 

@@ -44,7 +44,7 @@ This project was a part of the **BIOMAG-2024** Challenge; key contributions are 
 - This study successfully localizes conscious content in the alpha, beta, and gamma bands using the DICS beamforming technique.
 - This study provides a novel pipeline based on the DICS beamforming technique to perform network connectivity or hub node identification of the conscious content in alpha, beta, and gamma bands.
 
-**Proposed a novel WearNeuroNet architecture along with the implementation of explainable AI, i.e., layerwise relevance propagation for ictal-interictal classification limited channel EEG wearables.**
+**Proposed a novel WearNeuroNet architecture along with the implementation of explainable AI, i.e., layerwise relevance propagation for ictal-interictal classification limited channel EEG wearables [Link](https://ieeexplore.ieee.org/abstract/document/10570304).**
 ## Publications
 *** 
 **Journals:**  

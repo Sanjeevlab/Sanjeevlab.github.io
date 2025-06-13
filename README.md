@@ -3,6 +3,13 @@
 I am a doctoral researcher in the Department of Electronics and Communication Engineering at IIT Roorkee under the supervision of **[Prof. Tharun Kumar Reddy Bollu](https://tharuniitk.github.io/)**. My current research focuses on Neurological disorder diagnosis and detection using ML and DL models. During my research I designed computational biomarkers and features which assisted in initial screening of Epileptic subjects from Epilepsy Immitators. 
 
 Additionally I have hands-on experience and interest in designing and implementing a pipeline for Neurological disorder localisation and brain mapping using MEG-fMRI modality. In the exploratory stage I am working on implementing Neurofeedback techniques for neuro rehablitation.  
+
+## Contact me
+***  
+- **[orcid Id](https://orcid.org/0000-0002-0432-4892)**
+- **[Google Scholar](https://scholar.google.com/citations?user=vQ6OK3wAAAAJ&hl=en)**
+- **[LinkedIn](https://www.linkedin.com/in/sanjeev-kumar-varun-19b542170/)**
+
 ## Education
 ***  
 **PhD** in Electronics and Communication Engineering  

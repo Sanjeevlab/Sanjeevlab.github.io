@@ -14,3 +14,9 @@ layout: single
 - 1<sup>st</sup> Position in **“Line Follower Robotic Competition”** at intercollege level (REVAMP-15) held at NCR, Delhi in Feb’ 2015.
 - 3<sup>rd</sup> Position in **“Robo Race: Line Follower Robotic Competition”** at intercollege level (ENDEAVOUR -15) held at NCR, Delhi in Aug’ 2015.
 - 3<sup>rd</sup> Position in **“Technical Fest: Line Follower Robotic Competition”** at intercollege level (INNOTECH-14) held at NCR, Delhi in Nov’ 2014.
+
+## Travel Grants
+***  
+- Jan. 2024 **DORA Travel Grant, IIT Roorkee** for attending research internship at *UTS, Sydney, Australia*.
+- Nov. 2023 **Australia India Research Student (AIRS) Fellowship** for attending research internship at *UTS, Sydney, Australia*.
+

@@ -5,37 +5,38 @@
   box-shadow: 0 4px 12px rgba(0,0,0,0.08);
   background: #fff;
   margin: 20px 0;
+  text-align: center;
 ">
 
-  <h2 style="text-align:center; margin-top:0;">
+  <!-- Image first -->
+  {% if include.img %}
+  <div style="margin-bottom:15px;">
+    <img src="{{ include.img }}" alt="" style="width:100%; max-width:600px; border-radius:8px;">
+  </div>
+  {% endif %}
+
+  <!-- Title -->
+  <h2 style="margin-top:0; margin-bottom:15px;">
     {{ include.title }}
   </h2>
 
-  <div style="display:flex; flex-wrap:wrap; gap:20px; align-items:flex-start;">
-    <!-- Left side: image -->
-    {% if include.img %}
-    <div style="flex:1; min-width:250px;">
-      <img src="{{ include.img }}" alt="" style="width:100%; border-radius:8px;">
-      <!-- 👆 alt is empty to suppress title/caption under image -->
-    </div>
-    {% endif %}
-
-    <!-- Right side: description -->
-    <div style="flex:2; min-width:250px; text-align:justify;">
-      {{ include.desc | markdownify }}
-
-      {% if include.button_link %}
-        <a href="{{ include.button_link }}" style="
-          display:inline-block;
-          padding:10px 18px;
-          background:#007bff;
-          color:#fff;
-          border-radius:6px;
-          text-decoration:none;
-          font-weight:500;">
-          {{ include.button_text | default: "Explore More" }}
-        </a>
-      {% endif %}
-    </div>
+  <!-- Description -->
+  <div style="text-align:justify; margin-bottom:15px;">
+    {{ include.desc | markdownify }}
   </div>
+
+  <!-- Button -->
+  {% if include.button_link %}
+    <a href="{{ include.button_link }}" style="
+      display:inline-block;
+      padding:10px 18px;
+      background:#007bff;
+      color:#fff;
+      border-radius:6px;
+      text-decoration:none;
+      font-weight:500;">
+      {{ include.button_text | default: "Explore More" }}
+    </a>
+  {% endif %}
+
 </div>

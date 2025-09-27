@@ -1,0 +1,48 @@
+<div style="
+  border: 1px solid #e0e0e0;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  background: #fff;
+  margin: 20px 0;
+">
+
+  <h2 style="text-align:center; margin-top:0;">
+    {{ include.title }}
+  </h2>
+
+  <div style="display:flex; flex-wrap:wrap; gap:20px; align-items:flex-start;">
+    <!-- Left side: image -->
+    {% if include.img %}
+    <div style="flex:1; min-width:250px;">
+      <img src="{{ include.img }}" alt="{{ include.title }}" style="width:100%; border-radius:8px;">
+    </div>
+    {% endif %}
+
+    <!-- Right side: description -->
+    <div style="flex:2; min-width:250px; text-align:justify;">
+      {{ include.content | markdownify }}
+
+      {% if include.link %}
+        <p>
+          <a href="{{ include.link }}" target="_blank" style="font-weight:bold; color:#0066cc;">
+            {{ include.link_text | default: "Read More" }}
+          </a>
+        </p>
+      {% endif %}
+
+      {% if include.button_link %}
+        <a href="{{ include.button_link }}" style="
+          display:inline-block;
+          padding:10px 18px;
+          background:#007bff;
+          color:#fff;
+          border-radius:6px;
+          text-decoration:none;
+          font-weight:500;">
+          {{ include.button_text | default: "Explore More" }}
+        </a>
+      {% endif %}
+    </div>
+  </div>
+</div>

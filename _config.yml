@@ -4,11 +4,37 @@
 # show_downloads: true
 # theme: jekyll-theme-minimal
 title: "Sanjeev Kr. Varun"
+description: "Australia India Research Student (AIRS) Fellow || Visiting Scholar @ UTS Sydney, Australia || PhD IIT Roorkee, Uttarakhand || Research – Neurological Disorder, Brain Connectivity, Epilepsy"
 logo: /assets/img/profile-image.jpg
-description: >-
-  Australia India Research Student (AIRS) Fellow || Visiting Scholar @ UTS Sydney, Australia || 
-  PhD IIT Roorkee, Uttarakhand || Research – Neurological Disorder, Brain Connectivity, Epilepsy
+
+# Use Minimal Mistakes (clean/light)
 remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: default    # light skin
+
+# IMPORTANT: enable the plugin that provides `{% include_cached %}`
 plugins:
   - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-seo-tag
+  - jekyll-readme-index   # lets README.md be the homepage
+
+# Allow front matter inside README.md
+readme_index:
+  with_frontmatter: true
+
+# Optional: author box on the homepage/side
+author:
+  name: "Sanjeev Kr. Varun"
+  avatar: "/assets/img/profile-image.jpg"
+  bio: "AIRS Fellow · Visiting Scholar @ UTS Sydney · PhD IIT Roorkee · Research: Neurological Disorder, Brain Connectivity, Epilepsy"
+
+# Defaults for normal pages
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single"
+      author_profile: true
+
 

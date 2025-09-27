@@ -4,7 +4,7 @@ permalink: /achievements/
 layout: single
 ---
 
-## Competitions
+## Awards
 ***  
 - 5<sup>th</sup> Position in International **Cogitate Connectivity Data Challenge** organized by Cogitate Consortium at BIOMAG-24, Sydney, Australia  July’2024.
 - Visiting Scholar at the **University of Technology, UTS Sydney, Australia** from Nov’ 2023-Dec’ 2023.

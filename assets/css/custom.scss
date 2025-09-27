@@ -1,17 +1,16 @@
 ---
-# this front matter tells Jekyll to process it
 ---
 
-/* Import the base theme styles */
-@import "minimal-mistakes/skins/default"; // or the skin you’re using
+@import "minimal-mistakes/skins/default"; // use your skin
 @import "minimal-mistakes"; 
 
-/* Now override font sizes */
+/* Overrides */
 body {
-  font-size: 0.5rem;   /* smaller than default (1rem) */
-  line-height: 1.2;     /* keep it readable */
+  font-size: 0.95rem;
+  line-height: 1.5;
 }
 
-h1 { font-size: 1.5rem; }
-h2 { font-size: 1.2rem; }
-h3 { font-size: 1rem; }
+h1 { font-size: 1.8rem; }
+h2 { font-size: 1.5rem; }
+h3 { font-size: 1.25rem; }
+

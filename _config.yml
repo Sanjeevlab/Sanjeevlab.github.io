@@ -37,4 +37,10 @@ defaults:
       layout: "single"
       author_profile: true
 
+sass:
+  style: compressed
+
+# point to your custom css file
+minimal_mistakes_skin: default
+
 

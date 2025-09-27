@@ -15,21 +15,14 @@
     <!-- Left side: image -->
     {% if include.img %}
     <div style="flex:1; min-width:250px;">
-      <img src="{{ include.img }}" alt="{{ include.title }}" style="width:100%; border-radius:8px;">
+      <img src="{{ include.img }}" alt="" style="width:100%; border-radius:8px;">
+      <!-- 👆 alt is empty to suppress title/caption under image -->
     </div>
     {% endif %}
 
     <!-- Right side: description -->
     <div style="flex:2; min-width:250px; text-align:justify;">
       {{ include.desc | markdownify }}
-
-      {% if include.link %}
-        <p>
-          <a href="{{ include.link }}" target="_blank" style="font-weight:bold; color:#0066cc;">
-            {{ include.link_text | default: "Read More" }}
-          </a>
-        </p>
-      {% endif %}
 
       {% if include.button_link %}
         <a href="{{ include.button_link }}" style="

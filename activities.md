@@ -22,3 +22,12 @@ layout: single
 ## Organizational Skills
 ***  
 **Student Coordinator** of Organizing Committee for a workshop on **“AI for Human Brain-Computer Interaction: Innovations in ML and Signal Processing for emergence of Health 5.0”**, Department of Electronics and Communication Engineering, IIT Roorkee sponsored by SERB-DST, India in Mar’ 24 .
+
+## Academic Services
+*** 
+- 2023 Teaching Assistant  
+Course: “Signals and System”  
+Prof. Tharun Kumar Reddy Bollu, IIT Roorkee, India
+- 2022 Teaching Assistant
+Course: “Adaptive Signal Processing and Control”
+Prof. Tharun Kumar Reddy Bollu, IIT Roorkee, India

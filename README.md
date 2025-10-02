@@ -19,11 +19,3 @@ Additionally I have hands-on experience and interest in designing and implementi
 **B.Tech** in Electronics and Communication Engineering UP, India  
 **Dr. A.P.J. Abdul Kalam Technical University**, UP, India | 2012-2016
 
-## Academic Services
-*** 
-- 2023 Teaching Assistant  
-Course: “Signals and System”  
-Prof. Tharun Kumar Reddy Bollu, IIT Roorkee, India
-- 2022 Teaching Assistant
-Course: “Adaptive Signal Processing and Control”
-Prof. Tharun Kumar Reddy Bollu, IIT Roorkee, India

@@ -1,4 +1,8 @@
-
+---
+title: "Activities"
+permalink: /activities/
+layout: single
+---
 
 ## Internships/ Workshops
 ***  

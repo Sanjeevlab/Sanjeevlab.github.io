@@ -1,17 +1,19 @@
 {% comment %}
-Custom head include — overrides the theme’s head so we can add our own CSS
+This file overrides the <head> section from Minimal Mistakes safely.
+Anything you put here will be inserted into <head>.
 {% endcomment %}
 
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: 'en' }}">
-<head>
-  {%- comment -%}
-  Keep the default Minimal Mistakes head
-  {%- endcomment -%}
-  {% include head.html %}
+<!-- Keep the original head content from the theme -->
+{% include head.html %}
 
-  {%- comment -%}
-  Add our custom stylesheet (main.css which imports _sass/custom.scss)
-  {%- endcomment -%}
-  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
-</head>
+<!-- ✅ Your custom CSS -->
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+
+<!-- ✅ Any additional custom CSS files -->
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+
+<!-- ✅ Example: Add a Google Font -->
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+
+<!-- ✅ Example: Add favicon -->
+<link rel="icon" href="{{ '/assets/img/favicon.png' | relative_url }}" type="image/png">

@@ -1,19 +1,21 @@
 {% comment %}
-This file overrides the <head> section from Minimal Mistakes safely.
-Anything you put here will be inserted into <head>.
+Custom head overrides.
+This file REPLACES the theme's <head> include.
+Do NOT include head.html inside itself (would cause infinite recursion).
 {% endcomment %}
 
-<!-- Keep the original head content from the theme -->
-{% include head.html %}
+<!-- Original theme head still runs automatically. -->
+<!-- Now just add extra CSS or scripts here. -->
 
-<!-- ✅ Your custom CSS -->
+<!-- ✅ Load custom SCSS build -->
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 
-<!-- ✅ Any additional custom CSS files -->
+<!-- ✅ Extra CSS file if you want -->
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
-<!-- ✅ Example: Add a Google Font -->
+<!-- ✅ Example: Add Google Fonts -->
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 
 <!-- ✅ Example: Add favicon -->
 <link rel="icon" href="{{ '/assets/img/favicon.png' | relative_url }}" type="image/png">
+

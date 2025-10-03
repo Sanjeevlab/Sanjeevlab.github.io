@@ -1,15 +1,17 @@
-/* Custom font + sizing overrides */
+/* Responsive typography overrides */
 
-/* Use Roboto everywhere */
+/* Base body text */
 body {
   font-family: "Roboto", Arial, sans-serif !important;
-  font-size: 15px !important;   /* smaller font like sanjeevmk.github.io */
-  line-height: 1.6 !important;  /* improves readability */
-  background: #fff !important;  /* reset background */
-  color: #333 !important;       /* softer text color */
+  font-size: 16px;         /* default for desktop */
+  line-height: 1.6 !important;
+  background: #fff !important;
+  color: #333 !important;
+  margin: 0;
+  padding: 0;
 }
 
-/* Headings (make them cleaner and balanced) */
+/* Headings */
 h1, h2, h3, h4, h5, h6 {
   font-family: "Roboto", Arial, sans-serif !important;
   font-weight: 600 !important;
@@ -18,15 +20,37 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0.6em !important;
 }
 
-/* Navigation bar (top menu) */
-.masthead {
-  font-size: 15px !important;
-  background: #fff !important;
-}
-
 /* Sidebar bio */
 .author__bio {
-  font-size: 14px !important;
+  font-size: 15px !important;
   line-height: 1.5 !important;
   color: #555 !important;
+}
+
+/* Links */
+a {
+  color: #0056b3 !important;   /* softer blue like sanjeevmk.github.io */
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* ✅ Responsive scaling */
+@media (max-width: 768px) {
+  body {
+    font-size: 14px;    /* slightly smaller for tablets */
+  }
+}
+@media (max-width: 480px) {
+  body {
+    font-size: 13px;    /* readable on mobile */
+    line-height: 1.5;
+  }
+  h1 {
+    font-size: 22px !important;
+  }
+  h2 {
+    font-size: 18px !important;
+  }
 }

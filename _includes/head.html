@@ -1,0 +1,17 @@
+{% comment %}
+Custom head include — overrides the theme’s head so we can add our own CSS
+{% endcomment %}
+
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en' }}">
+<head>
+  {%- comment -%}
+  Keep the default Minimal Mistakes head
+  {%- endcomment -%}
+  {% include head.html %}
+
+  {%- comment -%}
+  Add our custom stylesheet (main.css which imports _sass/custom.scss)
+  {%- endcomment -%}
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+</head>

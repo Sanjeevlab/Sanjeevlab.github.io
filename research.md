@@ -2,6 +2,7 @@
 title: "Research"
 permalink: /research/
 layout: single
+author_profile: false
 ---
 
 {% capture biomarker_desc %}

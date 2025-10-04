@@ -55,20 +55,44 @@ a:hover {
   }
 }
 
-/* === Fix for overlapping sidebar on smaller screens === */
-@media screen and (max-width: 1024px) {
+/* === Fix overlapping sidebar and text === */
+@media screen and (max-width: 1100px) {
   .sidebar {
     position: relative !important;
-    width: 100% !important;
     float: none !important;
-    margin-bottom: 2rem !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    text-align: center !important;
+    margin: 0 auto 2rem auto !important;
+    display: block !important;
+  }
+
+  .sidebar__bio,
+  .author__avatar {
+    text-align: center !important;
+    margin: 0 auto !important;
+  }
+
+  .author__avatar img {
+    display: block !important;
+    margin: 0 auto !important;
+    max-width: 140px !important;
+    height: auto !important;
+    border-radius: 50%;
   }
 
   .page__content {
-    width: 100% !important;
     margin-left: 0 !important;
+    width: 100% !important;
+    padding: 1rem !important;
+  }
+
+  .layout--single,
+  .layout--archive {
+    display: block !important;
   }
 }
+
 
 /* Ensure image inside sidebar scales well */
 .sidebar img {

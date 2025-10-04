@@ -2,6 +2,7 @@
 title: "Publications **[[Google Scholar](https://scholar.google.com/citations?user=vQ6OK3wAAAAJ&hl=en)]**"
 permalink: /publications/
 layout: single
+author_profile: false
 ---
 
 *** 

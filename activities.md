@@ -2,6 +2,7 @@
 title: "Activities"
 permalink: /activities/
 layout: single
+author_profile: false
 ---
 
 ## Internships/ Workshops

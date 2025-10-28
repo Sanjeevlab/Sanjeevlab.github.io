@@ -1,11 +1,10 @@
 ---
-title: "Contact"
+title: ""
 permalink: /contact/
 layout: single
 author_profile: false
 sidebar: false
 classes: [wide, page-contact]
-header: false
 ---
 
 ### Address  

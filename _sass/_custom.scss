@@ -136,3 +136,9 @@ a:hover {
   }
 }
 
+/* Contact page: kill sidebar column completely */
+.page-contact .page__sidebar { display: none !important; }
+
+/* Contact page: let content span full width */
+.page-contact .page__content { width: 100% !important; }
+

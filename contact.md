@@ -2,8 +2,9 @@
 title: "Contact"
 permalink: /contact/
 layout: single
-classes: wide
 author_profile: false
+sidebar: false
+classes: [wide, page-contact]
 ---
 
 ### Address  

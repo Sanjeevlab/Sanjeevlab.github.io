@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Contacts"
 permalink: /contact/
 layout: single
 author_profile: false

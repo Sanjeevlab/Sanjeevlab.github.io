@@ -5,7 +5,12 @@ layout: single
 author_profile: false
 ---
 
-## Address   
+## Internships/ Workshops
+***  
+- Title: **"Statistical Analysis of Network Connectivity of Brain during inter-ictal discharge (IED) Episode"** held at University of Technology Sydney, Australia from Nov’2023 - Dec’2023.
+
+## Address
+***  
 - Room No: S-104  
 Department of Electronics and Communication Engineering  
 Indian Institute of Technology Roorkee  

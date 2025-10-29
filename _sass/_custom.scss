@@ -78,7 +78,7 @@ a:hover {
     margin: 0 auto !important;
     max-width: 140px !important;
     height: auto !important;
-    border-radius: 50%;
+    border-radius: 40%;
   }
 
   .page__content {
@@ -135,10 +135,3 @@ a:hover {
     max-width: 100% !important;    /* let it fill mobile width */
   }
 }
-
-/* Contact page: kill sidebar column completely */
-.page-contact .page__sidebar { display: none !important; }
-
-/* Contact page: let content span full width */
-.page-contact .page__content { width: 100% !important; }
-

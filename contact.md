@@ -7,7 +7,7 @@ author_profile: false
 
 ## Address:
 ***  
-- Room No: S-104  
+- Room No: S-104, Signal Processing Lab  
 Department of Electronics and Communication Engineering  
 Indian Institute of Technology Roorkee, India.
   

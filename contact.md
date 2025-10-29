@@ -5,13 +5,10 @@ layout: single
 author_profile: false
 ---
 
+## Address:
 ***  
-
-## Address
+- Room No: S-104, Department of Electronics and Communication Engineering, Indian Institute of Technology Roorkee, India.
 ***  
-- Room No: S-104  
-Department of Electronics and Communication Engineering  
-Indian Institute of Technology Roorkee
 
 ## Email:  
 [skumarvarun@ec.iitr.ac.in](mailto:skumarvarun@ec.iitr.ac.in)  

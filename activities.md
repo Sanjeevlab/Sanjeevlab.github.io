@@ -29,6 +29,6 @@ author_profile: false
 - 2023 Teaching Assistant  
 Course: “Signals and System”  
 Prof. Tharun Kumar Reddy Bollu, IIT Roorkee, India
-- 2022 Teaching Assistant
-Course: “Adaptive Signal Processing and Control”
+- 2022 Teaching Assistant  
+Course: “Adaptive Signal Processing and Control”  
 Prof. Tharun Kumar Reddy Bollu, IIT Roorkee, India

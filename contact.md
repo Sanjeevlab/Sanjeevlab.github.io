@@ -7,7 +7,9 @@ author_profile: false
 
 ## Address:
 ***  
-- Room No: S-104, Department of Electronics and Communication Engineering, Indian Institute of Technology Roorkee, India.
+- Room No: S-104  
+Department of Electronics and Communication Engineering  
+Indian Institute of Technology Roorkee, India.
   
 
 ## Email:  

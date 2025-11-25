@@ -16,7 +16,7 @@ author_profile: false
    title="Development of a Novel Biomarker for Epilepsy Diagnosis and Seizure Detection"
    img="/assets/img/research1.jpg"
    desc=biomarker_desc
-   button_link="https://example.com/paper1"
+   button_link="https://ieeexplore.ieee.org/document/11266890"
    button_text="Explore More"
 %}
 
@@ -64,7 +64,7 @@ author_profile: false
    title="Cogitate Connectivity Challenge (Consciousness Study)"
    img="/assets/img/research4.jpg"
    desc=cogitate_desc
-   button_link="https://ieeexplore.ieee.org/document/11266890"
+   button_link="https://example.com/paper4"
    button_text="Explore More"
 %}
 

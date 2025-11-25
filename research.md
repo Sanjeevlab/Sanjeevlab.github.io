@@ -17,7 +17,7 @@ author_profile: false
    img="/assets/img/research1.jpg"
    desc=biomarker_desc
    button_link="https://ieeexplore.ieee.org/document/11266890"
-   button_text="Explore More"
+   button_text="Read Publication"
 %}
 
 ---

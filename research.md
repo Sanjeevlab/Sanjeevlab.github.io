@@ -14,7 +14,7 @@ author_profile: false
 
 {% include research-card.html 
    title="Development of a Novel Biomarker for Epilepsy Diagnosis and Seizure Detection"
-   img="/assets/img/research1.jpg"
+   img="/assets/img/research11.jpg"
    desc=biomarker_desc
    button_link="https://ieeexplore.ieee.org/document/11266890"
    button_text="Read Publication"

@@ -16,6 +16,6 @@ Additionally, I have hands-on experience and interest in designing and implement
 **M.Tech** in Electronics and Communication Engineering  
 **National Institute of Technology Hamirpur**, HP, India | 2017-2019    
 
-**B.Tech** in Electronics and Communication Engineering
+**B.Tech** in Electronics and Communication Engineering  
 **Dr. A.P.J. Abdul Kalam Technical University**, UP, India | 2012-2016
 

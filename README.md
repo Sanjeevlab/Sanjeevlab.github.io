@@ -11,7 +11,7 @@ Additionally I have hands-on experience and interest in designing and implementi
 ## Education
 ***  
 **PhD** in Electronics and Communication Engineering  
-**Indian Institute of Technology Roorkee**, India | 2019-Present
+**Indian Institute of Technology Roorkee**, India | 2019-2025
 
 **M.Tech** in Electronics and Communication Engineering  
 **National Institute of Technology Hamirpur**, HP, India | 2017-2019    

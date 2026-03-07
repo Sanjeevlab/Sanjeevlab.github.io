@@ -4,7 +4,7 @@ author_profile: true
 title: "About me"
 ---
 ***  
-I have recently completed my doctoral thesis in the Department of Electronics and Communication Engineering at IIT Roorkee under the supervision of **[Prof. Tharun Kumar Reddy Bollu](https://tharuniitk.github.io/)**. My current research focuses on Neurological disorder diagnosis and detection using ML and DL models. During my research, I designed computational biomarkers and features that assisted in the initial screening of Epileptic subjects from Epilepsy imitators. 
+I have recently completed my doctoral thesis in the Department of Electronics and Communication Engineering at IIT Roorkee under the supervision of **[Prof. Tharun Kumar Reddy Bollu](https://tharuniitk.github.io/)**. I am currently working as a Post-doc in Computer Science, Electrical and Space Engineering at Luleå University of Technology, Sweden under **[Prof. Foteini Liwicki](https://www.ltu.se/en/staff/f/foteini-liwicki)**. My current research focuses on Neurological disorder diagnosis and detection using ML and DL models. During my research, I designed computational biomarkers and features that assisted in the initial screening of Epileptic subjects from Epilepsy imitators. 
 
 Additionally, I have hands-on experience and interest in designing and implementing a pipeline for localizing neurological disorders and brain mapping using the MEG-fMRI modality. In the exploratory stage, I am working on implementing Neurofeedback techniques for neuro-rehabilitation.  
 

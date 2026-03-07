@@ -7,7 +7,7 @@ author_profile: false
 
 ## Address:
 ***  
-- Room No: S-104, Signal Processing Lab, Department of Electronics and Communication Engineering, Indian Institute of Technology Roorkee, India.
+- Embedded Intelligent Systems LAB, Department of Computer Science, Electrical and Space Engineering, Luleå University of Technology, Lulea, Sweden.
   
 
 ## Email:  

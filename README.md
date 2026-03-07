@@ -10,6 +10,9 @@ Additionally, I have hands-on experience and interest in designing and implement
 
 ## Education
 ***  
+**Post-doc** in Computer Science, Electrical and Space Engineering  
+**Luleå University of Technology**, Sweden | 2026-ongoing
+
 **PhD** in Electronics and Communication Engineering  
 **Indian Institute of Technology Roorkee**, India | 2019-2025
 

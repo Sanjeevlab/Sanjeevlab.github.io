@@ -10,8 +10,7 @@ author_profile: false
 - **S. K. Varun** and T. K. R. Bollu, "WearNeuroNet: An Interpretable Light-Weight Deep Learning Approach for Ictal–Interictal Classification for Limited Channel EEG Wearables," in IEEE Sensors Letters, vol. 8, no. 10, pp. 1-4, Oct. 2024, Art no. 6012304, doi: 10.1109/LSENS.2024.3417453. **(Published: [Link](https://ieeexplore.ieee.org/abstract/document/10570304))**
 - **S. K. Varun**, T. K. Reddy Bollu, S Panwar, P Agrawal, C. T. Lin, M Antonakakis, and M Zervakis, "nCSR: Development and validation of an n-cylindrical Symbolic Response, a standalone and synergistic feature Biomarker for Epilepsy detection from EEG data", in IEEE J. Biomed. Health Inform., IEEE, 2025. **(Published: [Link](https://ieeexplore.ieee.org/document/11266890))**
 - **S. K. Varun**, T. K. Reddy Bollu, and P. Agrawal, "ht-PLV based Deep Learning model for Epilepsy diagnosis and Seizure detection", in IEEE Trans., IEEE. **(Under Revision)**
-- **S. K. Varun**, M. Antonakakis, T. K. R. Bollu and Z. Michalis, "Spatio-Temporal Localization of Epileptic Discharges with its network dynamics for Epilepsy characterization using MEG and MRI modalities", in Biomed. Signal Process. Control., IEEE. **(in Writing stage)**
-- **S. K. Varun**, A. V. Parekkattil, M. Antonakakis and T. K. R. Bollu, "Brain rhythm synchronization to cortical regions for MEG based localization of interareal connectivity during consciousness", in Biomed. Signal Process. Control., IEEE. **(in Writing stage)**
+
 
 **Conferences/ Workshops:**  
 - **S. K. Varun**, T. K. Reddy Bollu and S. Shrestha, "Automatic Seizure Detection Employing Machine Learning-Based Late Fusion Techniques Over Behind-the-Ear and the Scalp EEG Signals," 2023 IEEE 4th Annual Flagship India Council International Subsections Conference (INDISCON), Mysore, India, 2023, pp. 1-4, doi: 10.1109/INDISCON58499.2023.10270088. **(Published: [Link](https://ieeexplore.ieee.org/abstract/document/10270088))**

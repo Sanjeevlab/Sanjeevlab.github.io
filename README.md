@@ -8,11 +8,13 @@ I have recently completed my doctoral thesis in the Department of Electronics an
 
 Additionally, I have hands-on experience and interest in designing and implementing a pipeline for localizing neurological disorders and brain mapping using the MEG-fMRI modality. In the exploratory stage, I am working on implementing Neurofeedback techniques for neuro-rehabilitation.  
 
-## Education
+## Experience
 ***  
 **Post-doc** in Computer Science, Electrical and Space Engineering  
 **Luleå University of Technology**, Sweden | 2026-ongoing
 
+## Education
+***  
 **PhD** in Electronics and Communication Engineering  
 **Indian Institute of Technology Roorkee**, India | 2019-2025
 

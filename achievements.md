@@ -16,8 +16,10 @@ author_profile: false
 - 3<sup>rd</sup> Position in **“Robo Race: Line Follower Robotic Competition”** at intercollege level (ENDEAVOUR -15) held at NCR, Delhi, India in Aug’ 2015.
 - 3<sup>rd</sup> Position in **“Technical Fest: Line Follower Robotic Competition”** at intercollege level (INNOTECH-14) held at NCR, Delhi, India in Nov’ 2014.
 
-## Travel Grants
+## Scholarships/ Travel Grants Awarded
 ***  
+- Mar. 2026 **Kempe Post-Doctoral Scholarship, Sweden** for PostDoc at *Lulea University of Technology, Sweden*.
 - Jan. 2024 **DORA Travel Grant, IIT Roorkee** for attending research internship at *UTS, Sydney, Australia*.
 - Nov. 2023 **Australia India Research Student (AIRS) Fellowship** for attending research internship at *UTS, Sydney, Australia*.
-
+- Jul. 2019 **MHRD Scholarship** for Doctoral Position at *Indian Institute of Technology, Roorkee, India* 
+- Jul. 2017 **MHRD Scholarship** for Masters Position at *National Institute of Technology, Hamirpur, India* 

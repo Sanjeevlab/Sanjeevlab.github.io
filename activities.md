@@ -33,8 +33,7 @@ Luleå University of Technology & WASP Lighthouse | April 2026, 🔗 [Event Link
 **Student Coordinator – AI for Human Brain-Computer Interaction Workshop**  
 Department of Electronics and Communication Engineering, IIT Roorkee (SERB-DST Sponsored) | March 2024, 🔗 [Event Link](https://tharuniitk.github.io/workshops)
 
-- Served as Student Coordinator in the organizing committee for the workshop on  
-  *“AI for Human Brain-Computer Interaction: Innovations in ML and Signal Processing for emergence of Health 5.0.”*  
+- Served as Student Coordinator in the organizing committee for the workshop on *“AI for Human Brain-Computer Interaction: Innovations in ML and Signal Processing for emergence of Health 5.0.”*  
 - Assisted in organizing technical sessions, coordinating participants, and managing workshop logistics.  
 - Facilitated discussions on machine learning and signal processing advancements in BCI and healthcare applications.
 

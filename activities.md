@@ -22,7 +22,21 @@ author_profile: false
 
 ## Organizational Skills
 ***  
-**Student Coordinator** of Organizing Committee for a workshop on **“AI for Human Brain-Computer Interaction: Innovations in ML and Signal Processing for emergence of Health 5.0”**, Department of Electronics and Communication Engineering, IIT Roorkee sponsored by SERB-DST, India in Mar’ 24 .
+**Technical Coordinator – BR41N.IO Hackathon, BCI & Neurotechnology Spring School 2026**  
+Luleå University of Technology & WASP Lighthouse | April 2026, 🔗 [Event Link](https://www.ltu.se/en/latest-news/calendar/event/2026-03-23-br41n.io-hackathon)  
+
+- Coordinated technical activities and supported participants in BCI and neurotechnology challenges.  
+- Assisted in problem formulation, data handling, and model development workflows.  
+- Contributed to interdisciplinary collaboration in brain-computer interface research.  
+
+
+**Student Coordinator – AI for Human Brain-Computer Interaction Workshop**  
+Department of Electronics and Communication Engineering, IIT Roorkee (SERB-DST Sponsored) | March 2024, 🔗 [Event Link](https://tharuniitk.github.io/workshops)
+
+- Served as Student Coordinator in the organizing committee for the workshop on  
+  *“AI for Human Brain-Computer Interaction: Innovations in ML and Signal Processing for emergence of Health 5.0.”*  
+- Assisted in organizing technical sessions, coordinating participants, and managing workshop logistics.  
+- Facilitated discussions on machine learning and signal processing advancements in BCI and healthcare applications.
 
 ## Academic Services
 *** 

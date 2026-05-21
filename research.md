@@ -89,3 +89,10 @@ author_profile: false
 - Elsevier Journal: **Biomedical Signal Processing and Control *(BSPC, Q1)***
 - Elsevier Journal: **Neural Networks *(NN, Q1)***
 - Conference 2025: **International Joint Conference on Neural Networks *(IJCNN)***
+---
+## Memberships 
+***  
+- IEEE Member.
+- IEEE Young Professionals.
+- IEEE Engineering in Medicine and Biology Society (EMBS) Membership.
+

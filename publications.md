@@ -9,7 +9,7 @@ author_profile: false
 **Journals:**  
 - **S. K. Varun** and T. K. R. Bollu, "WearNeuroNet: An Interpretable Light-Weight Deep Learning Approach for Ictal–Interictal Classification for Limited Channel EEG Wearables," in IEEE Sensors Letters, vol. 8, no. 10, pp. 1-4, Oct. 2024, Art no. 6012304, doi: 10.1109/LSENS.2024.3417453. **(Published: [Link](https://ieeexplore.ieee.org/abstract/document/10570304))**
 - **S. K. Varun**, T. K. Reddy Bollu, S Panwar, P Agrawal, C. T. Lin, M Antonakakis, and M Zervakis, "nCSR: Development and validation of an n-cylindrical Symbolic Response, a standalone and synergistic feature Biomarker for Epilepsy detection from EEG data", in IEEE J. Biomed. Health Inform., IEEE, 2025. **(Published: [Link](https://ieeexplore.ieee.org/document/11266890))**
-- E. S. Arpak, R. Saini, D. D. Chakladar, **S. K. Varun** and F. S. Liwicki, "The current status of foundation models in decoding inner speech from non-invasive brain signals: a mini review", in Front. Hum. Neurosci, 2026. 20:1838064. doi: 10.3389/fnhum.2026.1838064. **(Published: [Link](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2026.1838064/full))**
+- E. S. Arpak, R. Saini, D. D. Chakladar, **S. K. Varun** and F. S. Liwicki, "The current status of foundation models in decoding inner speech from non-invasive brain signals: a mini review", in Front. Hum. Neurosci, 2026. doi: 10.3389/fnhum.2026.1838064. **(Published: [Link](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2026.1838064/full))**
 - **S. K. Varun**, T. K. Reddy Bollu, and P. Agrawal, "ht-PLV based Deep Learning model for Epilepsy diagnosis and Seizure detection", in IEEE Trans., IEEE. **(Under Revision)**
 
 

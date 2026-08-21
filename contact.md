@@ -11,7 +11,8 @@ author_profile: false
   
 
 ## Email:  
-[skumarvarun@ec.iitr.ac.in](mailto:skumarvarun@ec.iitr.ac.in)  
+- [sanjeev.varun@associated.ltu.se](mailto:sanjeev.varun@associated.ltu.se)
+- [skumarvarun@ec.iitr.ac.in](mailto:skumarvarun@ec.iitr.ac.in)
 
 ## Links:  
 - [Google Scholar](https://scholar.google.com/citations?user=vQ6OK3wAAAAJ&hl=en)  

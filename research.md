@@ -30,11 +30,11 @@ author_profile: false
 {% endcapture %}
 
 {% include research-card.html 
-   title="Novel ht-PLV Feature for Epilepsy vs Mimickers"
+   title="Adaptive Phase-Locking Signatures for Epilepsy vs Mimickers"
    img="/assets/img/research2.jpg"
    desc=ht_plv_desc
-   button_link="https://example.com/paper2"
-   button_text="Explore More"
+   button_link="https://ieeexplore.ieee.org/abstract/document/11690636"
+   button_text="Read Publication"
 %}
 
 ---
